@@ -11,3 +11,5 @@
 * BootStrap- enabled responsive display.
 * Javascript- created a cohesive framework to pull data, and interact with the elements of the game.
 * SASS- provides styling for the site.
+
+![demo](wrightfiles.gif)
